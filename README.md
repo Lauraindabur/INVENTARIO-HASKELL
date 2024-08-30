@@ -10,4 +10,4 @@ El programa está desarrollado en Haskell, usando el paradigma de programación 
 -Mostrar cantidad de artículos por categoría
 Todo esto usando el archivo bodega.txt, donde se guardarán todos los elementos del inventario.
 
-Link video: 
+Link video: https://youtu.be/Qme_hrsDAT0?si=TyFzJdLZe0agwUmT
