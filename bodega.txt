@@ -1,0 +1,9 @@
+Item {nombre = "Audifonos", categoria = "Tecnologia"}
+Item {nombre = "Computador", categoria = "Tecnologia"}
+Item {nombre = "Cargador", categoria = "Tecnologia"}
+Item {nombre = "Resma", categoria = "Papeleria"}
+Item {nombre = "Balon", categoria = "Deportivo"}
+Item {nombre = "Libro A", categoria = "Educacion"}
+Item {nombre = "Cuaderno", categoria = "Papeleria"}
+Item {nombre = "Goma", categoria = "Papeleria"}
+Item {nombre = "Celular", categoria = "Electronico"}
