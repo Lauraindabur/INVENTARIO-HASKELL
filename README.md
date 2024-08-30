@@ -4,6 +4,7 @@ Por: Daniela Salazar Amaya y Laura Indabur García
 Integrante: Daniela Salazar Amaya - Laura Indabur Garcia
 IDE usado: Visual Studio Code
 El programa está desarrollado en Haskell, usando el paradigma de programación funcional, y su función es gestionar el catalogo/inventario de una tienda, permitiendo al usuario:
+
 -Registrar nuevos elementos
 -Buscar artículos por categoría
 -Listar todos los artículos
